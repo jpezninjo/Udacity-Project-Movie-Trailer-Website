@@ -13,5 +13,6 @@ movies = [
 		poster_image_url="https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-12561-1kf2c8m_4f614e59.jpeg?region=0%2C0%2C300%2C450")
 ]
 
+#Generate HTML file
 open_movies_page(movies)
 

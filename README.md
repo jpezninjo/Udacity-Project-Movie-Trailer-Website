@@ -11,8 +11,8 @@ Files:
 * fresh_tomatoes.html
        
 ### Programming Language: Python 2.7
-## Template Language: Jinja2 (2.9)
-## CSS Framework: Twitter Bootstrap 4
+### Template Language: Jinja2 (2.9)
+### CSS Framework: Twitter Bootstrap 4
 
 Usage: `python entertainment_center.py`
 
